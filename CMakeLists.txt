@@ -3,4 +3,4 @@ project(C)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(C Lintcode/1·A+B问题.cpp)
+add_executable(C test/test.cpp)
